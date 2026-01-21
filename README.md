@@ -2,7 +2,6 @@
 
 A full-stack web application that enables smart management of parking spaces with secure authentication, real-time spot allocation, admin monitoring, and automated cost calculation.
 
-Built as part of the **IIT Madras BS Degree Program**.
 
 ---
 
@@ -153,5 +152,3 @@ npm run dev
 ## Developer
 
 Gokula Karthikeyan
-
-Student @ IIT Madras BS Program
